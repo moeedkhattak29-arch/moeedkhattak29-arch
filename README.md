@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Maeed Ullah 👋
 
-<!--
-**moeedkhattak29-arch/moeedkhattak29-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Student @ University of Agriculture Peshawar  
+📍 Peshawar, Pakistan  
+🧠 Focused on Explainable AI & Machine Learning  
+💼 Open to Freelance & Internship Opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+### DenialShield — RCM Intelligence System
+AI-powered healthcare revenue cycle management system with 4 ML models.  
+🔗 [Live App](https://rcm-denielsheild.streamlit.app/) | [GitHub Repo](https://github.com/moeedkhattak29-arch/rcm-intelligence-system)
+
+---
+
+## 🛠️ Tech Stack
+Python • Pandas • Scikit-learn • Random Forest • Streamlit • Matplotlib • Seaborn • NumPy
+
+---
+
+## 📬 Connect With Me
+🌐 [Portfolio](https://maeed-ullah.netlify.app)  
+💼 [Fiverr](https://fiverr.com/datawithmoeed)  
+📧 moeedkhattak29@gmail.com
